@@ -1,7 +1,10 @@
 ## Hello friend, my name is Muhammad Anas Anwar 
 
 # 💫 About Me:
-Born in Pakistan, raised in Canada<br>Studied @ Durham College - Computer Programming & Analysis <br>Love drawing and painting, thinking outside of the box<br>Interested in C# and .NET applications <br>
+🛺 Born in Pakistan, Raised in Canada 
+📚 Studied @ Durham College - Computer Programming & Analysis
+🖌️ Love drawing and painting, thinking outside of the box 
+💻 Interested in C# and .NET applications <br>
 
 
 ## 🌐 Socials:
